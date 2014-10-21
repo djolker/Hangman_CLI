@@ -1,0 +1,26 @@
+c:\users\dj\documents\visual studio 2012\Projects\Hangman_Lib_test\Hangman_Lib_test\bin\Debug\Hangman_Lib_test.exe.config
+c:\users\dj\documents\visual studio 2012\Projects\Hangman_Lib_test\Hangman_Lib_test\bin\Debug\Hangman_Lib_test.exe
+c:\users\dj\documents\visual studio 2012\Projects\Hangman_Lib_test\Hangman_Lib_test\bin\Debug\Hangman_Lib_test.pdb
+c:\users\dj\documents\visual studio 2012\Projects\Hangman_Lib_test\Hangman_Lib_test\obj\Debug\Hangman_Lib_test.csprojResolveAssemblyReference.cache
+c:\users\dj\documents\visual studio 2012\Projects\Hangman_Lib_test\Hangman_Lib_test\obj\Debug\Hangman_Lib_test.exe
+c:\users\dj\documents\visual studio 2012\Projects\Hangman_Lib_test\Hangman_Lib_test\obj\Debug\Hangman_Lib_test.pdb
+\\ROUTER\My Passport(A1)\software_projects\Hangman\Hangman_Lib_test\Hangman_Lib_test\bin\Debug\Hangman_Lib_test.exe.config
+\\ROUTER\My Passport(A1)\software_projects\Hangman\Hangman_Lib_test\Hangman_Lib_test\obj\Debug\Hangman_Lib_test.exe
+\\ROUTER\My Passport(A1)\software_projects\Hangman\Hangman_Lib_test\Hangman_Lib_test\obj\Debug\Hangman_Lib_test.pdb
+\\ROUTER\My Passport(A1)\software_projects\Hangman\Hangman_Lib_test\Hangman_Lib_test\bin\Debug\Hangman_Lib_test.exe
+\\ROUTER\My Passport(A1)\software_projects\Hangman\Hangman_Lib_test\Hangman_Lib_test\bin\Debug\Hangman_Lib_test.pdb
+\\ROUTER\My Passport(A1)\software_projects\Hangman\Hangman_Lib_test\Hangman_Lib_test\obj\Debug\Hangman_Lib_test.csprojResolveAssemblyReference.cache
+C:\Users\DJ\Documents\Visual Studio 2012\Projects\Hangman\Hangman_Lib_test\Hangman_Lib_test\bin\Debug\Hangman_Lib_test.exe.config
+C:\Users\DJ\Documents\Visual Studio 2012\Projects\Hangman\Hangman_Lib_test\Hangman_Lib_test\obj\Debug\Hangman_Lib_test.exe
+C:\Users\DJ\Documents\Visual Studio 2012\Projects\Hangman\Hangman_Lib_test\Hangman_Lib_test\obj\Debug\Hangman_Lib_test.pdb
+C:\Users\DJ\Documents\Visual Studio 2012\Projects\Hangman\Hangman_Lib_test\Hangman_Lib_test\bin\Debug\Hangman_Lib_test.exe
+C:\Users\DJ\Documents\Visual Studio 2012\Projects\Hangman\Hangman_Lib_test\Hangman_Lib_test\bin\Debug\Hangman_Lib_test.pdb
+C:\Users\DJ\Documents\Visual Studio 2012\Projects\Hangman\Hangman_Lib_test\Hangman_Lib_test\obj\Debug\Hangman_Lib_test.csprojResolveAssemblyReference.cache
+C:\Users\DJ\Documents\Visual Studio 2012\Projects\Hangman\Hangman_Lib_test\Hangman_Lib_test\bin\Debug\IDM.SkPublish.API.dll
+\\ROUTER\My Passport(A1)\software_projects\hangman 9-11\Hangman_Lib_test\Hangman_Lib_test\bin\Debug\Hangman_Lib_test.exe.config
+\\ROUTER\My Passport(A1)\software_projects\hangman 9-11\Hangman_Lib_test\Hangman_Lib_test\obj\Debug\Hangman_Lib_test.exe
+\\ROUTER\My Passport(A1)\software_projects\hangman 9-11\Hangman_Lib_test\Hangman_Lib_test\obj\Debug\Hangman_Lib_test.pdb
+\\ROUTER\My Passport(A1)\software_projects\hangman 9-11\Hangman_Lib_test\Hangman_Lib_test\bin\Debug\Hangman_Lib_test.exe
+\\ROUTER\My Passport(A1)\software_projects\hangman 9-11\Hangman_Lib_test\Hangman_Lib_test\bin\Debug\Hangman_Lib_test.pdb
+\\ROUTER\My Passport(A1)\software_projects\hangman 9-11\Hangman_Lib_test\Hangman_Lib_test\bin\Debug\IDM.SkPublish.API.dll
+\\ROUTER\My Passport(A1)\software_projects\hangman 9-11\Hangman_Lib_test\Hangman_Lib_test\obj\Debug\Hangman_Lib_test.csprojResolveAssemblyReference.cache
